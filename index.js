@@ -30,7 +30,7 @@ menuIcon.onclick = () => {
 
 
 (function(){
-  emailjs.init("QzFSFwRb3jmSuyRam"); // public key بتاعك
+  emailjs.init("QzFSFwRb3jmSuyRam"); 
 })();
 
 const form = document.getElementById("contactForm");
