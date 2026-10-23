@@ -221,7 +221,7 @@ section{
 }
 
 .text-animation span::before{
-    content: 'Frontend Developer';
+    content: 'Full Stack Developer';
     color: var(--main-color);
     animation: words 20s infinite;
     -webkit-animation: words 20s infinite;
@@ -247,16 +247,16 @@ section{
 
 @keyframes words{
     0%, 20%{
-        content: 'Web Designer';
+        content: 'Front-end Developer';
     }
     21%, 40%{
-        content: 'Frontend Developer';
+        content: 'Back-end Developer';
     }
     41%, 60%{
-        content: 'Web Designer';
+        content: 'Front-end Developer';
     }
     61%, 80%{
-        content: 'Frontend Developer';
+        content: 'Back-end Developer';
     }
     81%, 100%{
         content: 'Web Designer';
