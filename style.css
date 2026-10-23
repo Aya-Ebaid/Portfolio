@@ -246,20 +246,14 @@ section{
 }
 
 @keyframes words{
-    0%, 20%{
-        content: 'Front-end Developer';
-    }
-    21%, 40%{
-        content: 'Back-end Developer';
-    }
-    41%, 60%{
-        content: 'Front-end Developer';
+    0%, 60%{
+        content: 'Full Stack Developer';
     }
     61%, 80%{
-        content: 'Back-end Developer';
+        content: 'Front-end Developer';
     }
     81%, 100%{
-        content: 'Web Designer';
+        content: 'Back-end Developer';
     }
 }
 
